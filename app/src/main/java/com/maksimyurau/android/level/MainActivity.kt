@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
     private var magf = FloatArray(3)
     private var values = FloatArray(3)
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
